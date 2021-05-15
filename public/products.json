@@ -1,0 +1,184 @@
+[
+    {
+        "id": "1",
+        "name": "וינה",
+        "price": 52.5,
+        "image": "/pics/city/1.jpg",
+        "category": "ערים בעולם"
+    },
+    {
+        "id": "2",
+        "name": "בומבי",
+        "price": 52.5,
+        "image": "/pics/city/2.jpg",
+        "category": "ערים בעולם"
+    },
+    {
+        "id": "3",
+        "name": "אירלנד",
+        "price": 89,
+        "image": "/pics/city/3.jpg",
+        "category": "ערים בעולם"
+    },
+    {
+        "id": "4",
+        "name": "לונדון",
+        "price": 52.5,
+        "image": "/pics/city/4.jpg",
+        "category": "ערים בעולם"
+    },
+    {
+        "id": "5",
+        "name": "חוביי",
+        "price": 52.5,
+        "image": "/pics/city/5.jpg",
+        "category": "ערים בעולם"
+    },
+    {
+        "id": "6",
+        "name": "פריז",
+        "price": 52.5,
+        "image": "/pics/city/6.jpg",
+        "category": "ערים בעולם"
+    },
+    {
+        "id": "7",
+        "name": "סן דייגו",
+        "price": 52.5,
+        "image": "/pics/city/7.jpg",
+        "category": "ערים בעולם"
+    },
+    {
+        "id": "8",
+        "name": "ניו דלהי",
+        "price": 52.5,
+        "image": "/pics/city/8.jpg",
+        "category": "ערים בעולם"
+    },
+    {
+        "id": "20",
+        "name": "הרי הפירנציה",
+        "price": 89,
+        "image": "/pics/view/20.jpg",
+        "category": "נוף"
+    },
+    {
+        "id": "21",
+        "name": "הרי הימלאיה",
+        "price": 89,
+        "image": "/pics/view/21.jpg",
+        "category": "נוף"
+    },
+    {
+        "id": "22",
+        "name": "הרי הרוקי",
+        "price": 89,
+        "image": "/pics/view/22.jpg",
+        "category": "נוף"
+    },
+    {
+        "id": "23",
+        "name": "הרי פיראים",
+        "price": 89,
+        "image": "/pics/view/23.jpg",
+        "category": "נוף"
+    },
+    {
+        "id": "24",
+        "name": "גרנד קניון",
+        "price": 89,
+        "image": "/pics/view/24.jpg",
+        "category": "נוף"
+    },
+    {
+        "id": "25",
+        "name": "הרי הברוגז",
+        "price": 89,
+        "image": "/pics/view/25.jpg",
+        "category": "נוף"
+    },
+    {
+        "id": "26",
+        "name": "הרי התמנון",
+        "price": 98,
+        "image": "/pics/view/26.jpg",
+        "category": "נוף"
+    },
+    {
+        "id": "27",
+        "name": "הרי מושלגים",
+        "price": 78,
+        "image": "/pics/view/27.jpg",
+        "category": "נוף"
+    },
+    {
+        "id": "28",
+        "name": "הרי הירקון",
+        "price": 25,
+        "image": "/pics/view/28.jpg",
+        "category": "נוף"
+    },
+    {
+        "id": "32",
+        "name": "ילדי ירושליים",
+        "price": 21,
+        "image": "/pics/kids/1.jpg",
+        "category": "ילדים"
+    },
+    {
+        "id": "33",
+        "name": "ילדה סופר יפה",
+        "price": 25,
+        "image": "/pics/kids/2.jpg",
+        "category": "ילדים"
+    },
+    {
+        "id": "34",
+        "name": "ילדה",
+        "price": 95,
+        "image": "/pics/kids/4.jpg",
+        "category": "ילדים"
+    },
+    {
+        "id": "35",
+        "name": "פעוט ",
+        "price": 82,
+        "image": "/pics/kids/5.jpg",
+        "category": "ילדים"
+    },
+    {
+        "id": "36",
+        "name": "ילד שובב",
+        "price": 82,
+        "image": "/pics/kids/6.jpg",
+        "category": "ילדים"
+    },
+    {
+        "id": "37",
+        "name": "ילדה מקפצת",
+        "price": 23,
+        "image": "/pics/kids/7.jpg",
+        "category": "ילדים"
+    },
+    {
+        "id": "38",
+        "name": "ילדה של פעם",
+        "price": 147,
+        "image": "/pics/kids/8.jpg",
+        "category": "ילדים"
+    },
+    {
+        "id": "39",
+        "name": "ילדה עם צמות",
+        "price": 69,
+        "image": "/pics/kids/9.jpg",
+        "category": "ילדים"
+    },
+    {
+        "id": "40",
+        "name": "2 ילדים משחקים",
+        "price": 82,
+        "image": "/pics/kids/10.jpg",
+        "category": "ילדים"
+    }
+]
